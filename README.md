@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # codeshield
 
 Initial prototype for CodeShield.
@@ -19,4 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # CodeShield-Space-Invader-Cyber-Security-Mobile-Game
 A flutter-flame game about cyber security. It is game that is inspired from space invaders that teaches the basic mechanic of cyber-attacks.  Objective of this game is to prevent different cyber-attacks from reaching your home server.
->>>>>>> 752855274df20442c88179ac71b7227fdbc8958f
