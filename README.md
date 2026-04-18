@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # codeshield
 
 Initial prototype for CodeShield.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CodeShield-Space-Invader-Cyber-Security-Mobile-Game
+A flutter-flame game about cyber security. It is game that is inspired from space invaders that teaches the basic mechanic of cyber-attacks.  Objective of this game is to prevent different cyber-attacks from reaching your home server.
+>>>>>>> 752855274df20442c88179ac71b7227fdbc8958f
